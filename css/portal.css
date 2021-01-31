@@ -11,7 +11,7 @@ html {
 
 ::selection {
     color: #000; 
-    background: #ff0;
+    background: rgb(0, 183, 255);
 }
 
 h1 {
@@ -37,13 +37,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:rgb(62, 90, 168);
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: rgb(154, 89, 207);
     text-decoration: none;
 }
 
