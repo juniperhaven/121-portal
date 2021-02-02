@@ -7,7 +7,6 @@ html {
     font-family: 'Montserrat Alternates', sans-serif;
     font-size: .95em;
     line-height: 1.5em;
-    /* add something to make a shadow for the text, or at least shadow the header and link text */
 }
 
 ::selection {
@@ -20,6 +19,7 @@ h1 {
     margin: auto;
     background: #fff;
     line-height: 2.5em;
+    text-shadow: 2px 2px 2px #2477d6;
 }
 
 main.wrapper {
